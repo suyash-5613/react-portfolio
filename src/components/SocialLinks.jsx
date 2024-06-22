@@ -57,9 +57,9 @@ const SocialLinks = () => {
             }
           >
             <a
-              href={href}
+              href="https://raw.githubusercontent.com/suyash-5613/portfolio/main/public/resume.pdf"
+              download="resume.pdf"
               className="flex justify-between items-centre w-full text-white"
-              download={download}
               target="_blank"
               rel="noreferrer"
             >
