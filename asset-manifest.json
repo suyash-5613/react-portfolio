@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.59a65763.css",
+    "main.js": "/react-portfolio/static/js/main.561c5f30.js",
+    "static/media/heroImage.png": "/react-portfolio/static/media/heroImage.abe5290fb5abf9f43fcb.png",
+    "static/media/reactParallax.jpg": "/react-portfolio/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
+    "static/media/reactWeather.jpg": "/react-portfolio/static/media/reactWeather.a1988356c4f5a620716e.jpg",
+    "static/media/c.png": "/react-portfolio/static/media/c.01d11d305a0a97f97ea6.png",
+    "static/media/reactSmooth.jpg": "/react-portfolio/static/media/reactSmooth.a2ffb0a8d6db6a651603.jpg",
+    "static/media/arrayDestruct.jpg": "/react-portfolio/static/media/arrayDestruct.84671dfd109d4de76bae.jpg",
+    "static/media/navbar.jpg": "/react-portfolio/static/media/navbar.7ce4ddd4bd6a2fa48cd5.jpg",
+    "static/media/installNode.jpg": "/react-portfolio/static/media/installNode.16b2cb6d162eaa8d6fb5.jpg",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/cpp.png": "/react-portfolio/static/media/cpp.26095dd47529b18dac87.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.59a65763.css.map": "/react-portfolio/static/css/main.59a65763.css.map",
+    "main.561c5f30.js.map": "/react-portfolio/static/js/main.561c5f30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a65763.css",
+    "static/js/main.561c5f30.js"
+  ]
+}
